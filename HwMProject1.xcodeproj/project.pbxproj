@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		02D24DED2052183B00A9B154 /* WindowController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D24DEC2052183B00A9B154 /* WindowController.swift */; };
 		02DFD6C22005B52300DD1891 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02DFD6C12005B52300DD1891 /* AppDelegate.swift */; };
 		02DFD6C42005B52300DD1891 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02DFD6C32005B52300DD1891 /* ViewController.swift */; };
 		02DFD6C62005B52300DD1891 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02DFD6C52005B52300DD1891 /* Assets.xcassets */; };
@@ -26,6 +27,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		02D24DEC2052183B00A9B154 /* WindowController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WindowController.swift; sourceTree = "<group>"; };
 		02DFD6BE2005B52300DD1891 /* HwMProject1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HwMProject1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		02DFD6C12005B52300DD1891 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		02DFD6C32005B52300DD1891 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -80,6 +82,7 @@
 				02DFD6C12005B52300DD1891 /* AppDelegate.swift */,
 				02DFD6E62005BA9500DD1891 /* SourceViewController.swift */,
 				02DFD6C32005B52300DD1891 /* ViewController.swift */,
+				02D24DEC2052183B00A9B154 /* WindowController.swift */,
 				02DFD6E82005BAE600DD1891 /* DetailViewController.swift */,
 				02DFD6C52005B52300DD1891 /* Assets.xcassets */,
 				02DFD6C72005B52300DD1891 /* Main.storyboard */,
@@ -189,6 +192,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				02DFD6C42005B52300DD1891 /* ViewController.swift in Sources */,
+				02D24DED2052183B00A9B154 /* WindowController.swift in Sources */,
 				02DFD6C22005B52300DD1891 /* AppDelegate.swift in Sources */,
 				02DFD6E72005BA9500DD1891 /* SourceViewController.swift in Sources */,
 				02DFD6E92005BAE600DD1891 /* DetailViewController.swift in Sources */,
